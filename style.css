@@ -1,0 +1,392 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@489&family=Exo:ital,wght@1,200&family=Montserrat:ital@1&family=Oswald:wght@300&family=Roboto+Mono:wght@300&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#bg{
+    background-image: url(./images/Coffe1.webp);
+    background-size: cover;
+    background-repeat:no-repeat;
+    width: 1536px;
+    height: 100vh;
+    
+}
+
+.navbar{
+    width: 100%;
+    height: 90px;
+    background-color: none;
+    
+}
+.home{
+    color: white;
+    background-color: orangered;
+    margin-left: 100px ;
+    padding: 7px;
+    border-radius: 15px;
+    border-width: 200px;
+    
+
+}
+#im1{
+    width: 50px;
+    border-radius: 20px;
+    margin-left: -2px;
+}
+#heading{
+    color: white;
+    margin-right: 1147px;
+    font-family: 'Exo', sans-serif;
+
+}
+#heading:hover{
+    color: rgb(210, 168, 117);
+}
+#quote{
+    border: 1px solid;
+    margin-right: 800px;
+    font-style: oblique;
+    margin-top: 50px;
+    margin-left: 90px;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    padding: 20px;
+    border-radius: 30px;
+    
+    
+}
+#quote:hover{
+    background-color: rgb(210, 168, 117);
+    border-color: black;
+    color: black;
+    
+}
+#box1{
+    border:white 1px solid;
+    margin-right: 800px;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding: 25px;
+    border-radius: 30px;
+    color: white;
+}  
+#bp1{
+    font-family: 'Exo', sans-serif;
+    font-size:large;
+} 
+#bh1{
+    color: rgb(223, 146, 51) ;
+    
+}
+#b1{
+    margin-top: 30px;
+    margin-left: 325px;
+}
+#dv1{
+    background-color:rgb(223, 146, 51) ;
+    color: black;
+    border: 2px black solid;
+    border-radius: 30px;
+    font-size: larger;
+    padding: 15px;
+    margin-top: -19px;
+}
+#dv1:hover{
+    background-color: black;
+    color: white;
+    border-color: white;   
+}
+
+#bg2{
+    background-image: url(./images/Coffe_bg2.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+    
+}
+#genre{
+    
+    margin-top: 100px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+#gh{
+
+    margin-top: 20px;
+    color: rgb(224, 237, 233);
+    padding-top: 50px;
+    
+    
+}
+#item1{
+    border: 2px white solid;
+    height: 455px;
+    width: 250px;
+    margin-left: 70px;
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#item1:hover{
+    background-color: black;
+    
+}
+#item2{
+    border: 2px white solid;
+    height: 455px;
+    width: 250px;
+    margin-left: 355px;
+    margin-top: -455px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+
+}
+#item2:hover{
+    background-color: black;
+}
+#item3{
+    border: 2px white solid;
+    height: 455px;
+    width: 250px;
+    margin-left: 643px;
+    margin-top: -455px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#item3:hover{
+    background-color: black;
+}
+#item4{
+    border: 2px white solid;
+    height: 455px;
+    width: 250px;
+    margin-left: 926px;
+    margin-top: -455px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#item4:hover{
+    background-color: black;
+}
+#item5{
+    border: 2px white solid;
+    height: 455px;
+    width: 250px;
+    margin-left: 1214px;
+    margin-top: -455px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#item5:hover{
+    background-color: black;
+}
+#bg3{
+    background-image: url(./images/bg3.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+#galh{
+    color: white;
+    border: 2px white solid;
+    margin-left: 84px;
+    margin-right: 891px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#galh:hover{
+    background-color: white;
+    color: black;
+}
+#pic1{
+    border: 2px white solid;
+    width: 400px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 65px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+#pic1:hover{
+    background-color: rgb(72, 71, 71);
+}
+#turkey{
+    width: 100%;
+    height: 250px;
+    border-radius: 20px;
+}
+#pic2{
+    border: 2px white solid;
+    width: 400px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 65px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+#pic2:hover{
+    background-color:rgb(72, 71, 71) ;
+}
+#pic3{
+    border: 2px white solid;
+    width: 400px;
+    height: 300px;
+    margin-top: -640px;
+    margin-left: 553px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+#pic3:hover{
+    background-color:rgb(72, 71, 71) ;
+}
+#pic4{
+    border: 2px white solid;
+    width: 400px;
+    height: 300px;
+    margin-top: -299px;
+    margin-left: 1040px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+#pic4:hover{
+    background-color:rgb(72, 71, 71) ;
+}
+#pic5{
+    border: 2px white solid;
+    width: 400px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 553px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+#pic5:hover{
+    background-color:rgb(72, 71, 71);
+}
+#pic6{
+    border: 2px white solid;
+    width: 400px;
+    height: 300px;
+    margin-top: -299px;
+    margin-left: 1040px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+#pic6:hover{
+    background-color:rgb(72, 71, 71);
+}
+#frm{
+    background-color: rgb(72, 71, 71);
+    height: 800px;
+    width: 100%;
+    border: 5px solid;
+}
+#fb{
+    border: 2px white solid;
+    width: 510px;
+    height: 535px;
+    margin-left: 488px;
+    padding: 20px;
+    border-radius: 15px;
+}
+#ftr{
+    width: 100%;
+    height: 100%;
+}
+#ft{
+    text-align: center;
+    color: white;
+}
+#la{
+   color: white;
+}
+#q{
+    height: 150px;
+}
+#b2{
+    background-color: rgb(46, 43, 43);
+    padding: 5px;
+    border: 3px white solid;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    margin-left: 165px;
+    margin-top: 30px;
+
+}
+#b2:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+#reach{
+    border: 3px white solid;
+    height: 190px;
+    width: 1427px;
+    margin-left: 50px;
+    border-radius: 20px;
+}
+#bhead{
+    text-align: center;
+    color: white;
+    margin-right: 100px;
+    margin-top: -148px;
+    
+    
+}
+/* #finalh{
+    text-align: center; 
+    margin-top: -14px;
+} */
+#imb{
+   width: 120px;
+   margin-top: 32px;
+   margin-left: 25px;
+   border-radius: 20px;
+    
+}
+#social{
+    /* border: 2px white solid; */
+    width: 200px;
+    height: 120px;
+    margin-left: 200px;
+    margin-top: -10px;
+
+}
+ul{
+    margin-left: 10px;
+}
+#num{
+    color: white;
+    margin-left: 530px;
+}
+#adress{
+    height: 150px;
+    width: 321px;
+    
+    margin-left: 1056px;
+    margin-top: -176px;
+    color: white;
+}
+#lasthead{
+    font-family: 'Exo', sans-serif;
+}  
